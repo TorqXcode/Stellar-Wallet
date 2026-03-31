@@ -14,7 +14,7 @@ To run this project locally, you need Node.js installed.
 
 1. **Clone the repository:**
    ```bash
-   git clone <YOUR_GITHUB_REPO_URL>
+   git clone <https://github.com/TorqXcode/Stellar-Wallet.git>
    cd steller-connect-wallet
    ```
 

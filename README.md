@@ -38,17 +38,10 @@ To run this project locally, you need Node.js installed.
 *(Be sure to replace these placeholder paths with your actual screenshots before submitting)*
 
 ### 1. Wallet Connected State
-> *Shows the user's Freighter wallet successfully connected to the dApp.*  
-![Wallet Connected State](./screenshots/wallet_connected.png)
+> *Shows the user's Freighter wallet successfully connected to the dApp.*
+<img width="371" height="575" alt="Screenshot 2026-03-31 at 4 00 04 PM" src="https://github.com/user-attachments/assets/a551bd37-4750-4ef8-a38a-692aa6b78a80" />
+
 
 ### 2. Balance Displayed
 > *Shows the user's XLM balance displayed accurately on the UI.*  
-![Balance Displayed](./screenshots/balance_displayed.png)
-
-### 3. Successful Testnet Transaction
-> *Shows the transaction interface successfully sending a testnet transaction via Freighter.*  
-![Testnet Transaction Form](./screenshots/transaction_form_success.png)
-
-### 4. Transaction Result Displayed to User
-> *Shows the final result along with the transaction hash and a link to the block explorer.*  
-![Transaction Result](./screenshots/transaction_result.png)
+<img width="1454" height="688" alt="Screenshot 2026-03-31 at 4 05 10 PM" src="https://github.com/user-attachments/assets/fbf0ac56-ab01-4048-ae79-e25d307def4d" />
